@@ -219,4 +219,4 @@ print(classification_report(y_test, predict))
 
 # #### With an accuracy of 91%, we are going to adopt our model and use it for further predicitons 
 
-# ## Job Well Done!
+# ## Ciao!
