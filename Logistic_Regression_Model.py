@@ -215,8 +215,6 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 print(f'{confusion_matrix(y_test,predict)}\n')
 print(classification_report(y_test, predict))
-
-
-# #### With an accuracy of 91%, we are going to adopt our model and use it for further predicitons 
+ 
 
 # ## Ciao!
