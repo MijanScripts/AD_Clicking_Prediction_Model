@@ -217,6 +217,7 @@ print(f'{confusion_matrix(y_test,predict)}\n')
 print(classification_report(y_test, predict))
 
 
-# #### With an accuracy of 91%, we are going to adopt our model and use it for further predicitons 
+# #### With an accuracy of 91%, we would adopt our model and use it for further predicitons 
 
-# ## Job Well Done!
+# ## Great Job Guys!git push origin main
+
