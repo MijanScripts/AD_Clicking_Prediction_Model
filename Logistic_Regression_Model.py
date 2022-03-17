@@ -5,7 +5,7 @@
 # 
 # 
 # ___
-# # Logistic Regression Project 
+# # Logistic Regression Project For Building an ADs clicking prediction model 
 # 
 # In this project we will be working with a random advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
 # 
@@ -219,4 +219,4 @@ print(classification_report(y_test, predict))
 
 # #### With an accuracy of 91%, we would adopt our model and use it for further predicitons 
 
-# ## Great Job! Let's go
+# ## Great Job Guys!
